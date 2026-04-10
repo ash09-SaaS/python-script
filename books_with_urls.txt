@@ -3,3 +3,8 @@
 103 Bob https://example.com/book1
 104 John https://example.com/book3
 105 Alice https://example.com/book1
+106 John https://example.com/book2
+107 Alice https://example.com/book2
+108 Bob https://example.com/book2
+109 John https://example.com/book2
+110 Alice https://example.com/book2
